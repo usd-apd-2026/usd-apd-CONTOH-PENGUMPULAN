@@ -1,7 +1,7 @@
 # Pertemuan 1
 
 ## Tabel Rancangan
-	| Elemen | Rancangan contoh |
+| Elemen | Rancangan contoh |
 | ----------- | ----------- |
 | Problem statement | Diberikan nilai jari-jari suatu lingkaran, tentukan luas lingkaran tersebut. |
 | Input | jariJari |
