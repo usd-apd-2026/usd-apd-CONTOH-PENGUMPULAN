@@ -1,6 +1,6 @@
 # Contoh Pengumpulan Tugas Praktikum
 
-## [Contoh Pengumpulan Tugas perminggu](pertemuan-6)
+## [Contoh Pengumpulan Tugas perminggu](pertemuan-x)
 
 
 ## Sangat Disarankan Pelajari:
