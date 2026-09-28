@@ -1,5 +1,6 @@
 # Rancangan Program Praktikum ke-x
-## Soal Nomer 1
+## Soal Nomer 1 
+
 
 ### Tabel Rancangan
 | Elemen | Rancangan contoh |
@@ -31,7 +32,8 @@ END
 ```
 
 ### Flowchart
-![image](flow_chart.jpg)
+<!-- "flow_chart.jpg" Sesuaikan dengan nama file gambar flowchart yang kalian upload -->
+![image](flow_chart.jpg) 
 
 ---
 
@@ -54,4 +56,5 @@ psuedocode
 ```
 
 ### Flowchart
+<!-- "flow_chart.jpg" Sesuaikan dengan nama file gambar flowchart yang kalian upload -->
 ![image](nama_file.jpg)
