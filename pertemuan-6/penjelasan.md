@@ -2,3 +2,5 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+![image](chart.jpg)
