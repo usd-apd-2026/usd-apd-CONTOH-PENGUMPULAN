@@ -1,3 +1,4 @@
+<!-- Ganti 'x' dengan angka pertemuan minggu itu -->
 # Rancangan Program Praktikum ke-x
 ---
 ## Soal Nomer 1 
