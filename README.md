@@ -2,7 +2,6 @@
 
 ## [Contoh Pengumpulan Tugas perminggu](pertemuan-x)
 
-
 ## Sangat Disarankan Pelajari:
 ### Tutorial Video
 - Markdown file :
@@ -14,3 +13,11 @@
 
 - Java Programming : 
   - [Bahasa Inggris](https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&si=W8kXy83jXniK3g3P)
+---
+### Cheatsheet
+- Markdown file:
+  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+ 
+- Git & GitHub:
+  - [Git CheatSheet](https://git-scm.com/cheat-sheet)
+  - [GitHub CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
