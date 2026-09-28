@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Nama class harus sama dengan nama File
-public class LuasLingkaran {
+public class Soal1 {
     public static void main(String[] args) {
         // Deklarasi konstanta PI dan scanner
         final double PHI = 3.14159;
