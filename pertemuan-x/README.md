@@ -52,9 +52,9 @@ END
 | Batasan |  |
 | Modul |  |
 
-### PsuedoCode
+### PseudoCode
 ```
-psuedocode
+pseudocode
 ```
 
 ### Flowchart
