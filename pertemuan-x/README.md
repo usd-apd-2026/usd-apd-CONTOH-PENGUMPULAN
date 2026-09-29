@@ -16,7 +16,7 @@
 | Modul | Input & validasi; hitung luas lingkaran; tampilkan hasil. |
 
 
-### PsuedoCode
+### PseudoCode
 ```
 PROGRAM Menghitung_Luas_Lingkaran
 
