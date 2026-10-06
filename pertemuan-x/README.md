@@ -46,7 +46,7 @@ END
 | ----------- | ----------- |
 | Problem statement |  |
 | Input |  |
-| Process |  |
+| Process |<ol><li> proses satu</li><li> Proses dua</li></ol>  |
 | Output |  |
 | Asumsi |  |
 | Batasan |  |
