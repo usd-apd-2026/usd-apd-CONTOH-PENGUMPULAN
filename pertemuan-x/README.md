@@ -63,6 +63,7 @@ pseudocode
 
 ### Numbering atau bullet 
 Gunakan 
+```html
 <ul>
    <li>satu</li>
    <li>dua</li>
@@ -71,3 +72,4 @@ Gunakan
    <li>satu</li>
    <li>dua</li>
 </ol>
+```
