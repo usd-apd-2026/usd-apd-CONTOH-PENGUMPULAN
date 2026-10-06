@@ -62,7 +62,14 @@ pseudocode
 ![image](nama_file.jpg)
 
 ### Numbering atau bullet 
-Gunakan 
+<ul>
+   <li>satu</li>
+   <li>dua</li>
+</ul>
+<ol>
+   <li>satu</li>
+   <li>dua</li>
+</ol> 
 ```html
 <ul>
    <li>satu</li>
