@@ -62,6 +62,7 @@ pseudocode
 ![image](nama_file.jpg)
 
 ### Numbering atau bullet 
+Gunakan
 <ul>
    <li>satu</li>
    <li>dua</li>
@@ -70,6 +71,7 @@ pseudocode
    <li>satu</li>
    <li>dua</li>
 </ol> 
+
 ```html
 <ul>
    <li>satu</li>
@@ -80,7 +82,7 @@ pseudocode
    <li>dua</li>
 </ol>
 ```
-### Tabel 
+### Untuk tabel 
 ```html
 <table>
   <tr>
