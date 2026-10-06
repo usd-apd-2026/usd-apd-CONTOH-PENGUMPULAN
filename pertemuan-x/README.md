@@ -61,8 +61,9 @@ pseudocode
 <!-- "flow_chart.jpg" Sesuaikan dengan nama file gambar flowchart yang kalian upload -->
 ![image](nama_file.jpg)
 
-
-<ul>
-   <li>satu</li>
-   <li>dua</li>
-</ul>
+### Numbering atau bullet 
+Gunakan 
+'<ul>
+'   <li>satu</li>
+'   <li>dua</li>
+'</ul>
